@@ -1,0 +1,31 @@
+#heading {
+    left: 100%;
+    text-align: right;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+}
+
+main {
+    left: 50%;
+    right: 50%;
+    text-align:center;
+    line-height: 2em;
+}
+
+#submit-container {
+    display: flex;
+    justify-content: center;
+}
+
+#search-submit {
+    display:block;
+}
+
+#random-submit {
+    display:block;
+}
+
+img {
+    max-width:50%;
+    margin:auto;
+}
