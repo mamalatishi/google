@@ -40,3 +40,25 @@ main {
     text-align:center;
     padding-top: 4em;
 }
+
+footer {
+    display:flex;
+    justify-content:space-between;
+}
+
+#left-foot {
+    display:flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+}
+
+a {
+    display:block;
+    word-spacing: 10px;
+}
+
+#right-foot {
+    display:flex;
+    justify-content:flex-end;
+    flex-wrap: wrap;
+}
